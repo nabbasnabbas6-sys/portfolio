@@ -7,7 +7,7 @@ Portfolio personnel construit avec Vite, JavaScript et Three.js.
 Ce projet contient :
 
 - un hero avec modele 3D interactif
-- une section projets avec tes vrais liens
+- une section projets avec mes vrais liens
 - une sidebar profil au scroll
 - un formulaire de contact prepare pour EmailJS
 
